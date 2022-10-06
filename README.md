@@ -1,10 +1,35 @@
-# Who Am I?
-My name is Carlos, I'm a human first (?) then everything else, like a Mechatronic engineer. I am passionate about technology but not an expert on it.
-## What Am I doing in GitHub?
 
-Well at first I started using GitHub to download "programs" like scrcpy, files for windows, and more, but now I do participate actively by supporting and giving away my knowledge in the repositories and topics I have experience with.
+| ![Profile Views](https://komarev.com/ghpvc/?username=xpeqex&color=green) | ![Followers](https://img.shields.io/github/followers/xpeqex) |
 
-So yeah, I do like what people are capable to do and how mature and useful this platform could be.
+<b>Hi there,  I'm Carlos</b>🤠<br>
+
+<b>BIO</b><br>
+
+👽	I'm a human first (?) then everything else.
+⚙️	Mechatronic Engineer owrking in Aguascalientes, Mexico.
+🧑‍💻	I am passionate about technology but not an expert on it.<br>
+
+🌱 Learning all about Open Hardware and Software, programming on C.<br>
+<br><br>
+
+<!--
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=xpeqex&count_private=true&theme=tokyonight&showicons=true)]()
+
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=xpeqex&langs_count=5&theme=tokyonight)]()
+
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=xpeqex&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=xpeqex&theme=light&hide_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xpeqex&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<br>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=xpeqex&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br>
 
 > Note: Why is people so mad?, like calm down!
-
