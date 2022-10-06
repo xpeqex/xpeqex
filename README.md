@@ -5,8 +5,8 @@
 
 <b>BIO</b><br>
 
-👽	I'm a human first (?) then everything else.
-⚙️	Mechatronic Engineer owrking in Aguascalientes, Mexico.
+👽	I'm a human first (?) then everything else. <br>
+⚙️	Mechatronic Engineer owrking in Aguascalientes, Mexico.<br>
 🧑‍💻	I am passionate about technology but not an expert on it.<br>
 
 🌱 Learning all about Open Hardware and Software, programming on C.<br>
