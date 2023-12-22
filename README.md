@@ -31,8 +31,8 @@ I have given talks about cybersecurity, and the use of custom firmware and hardw
 ## My GitHub Stats <img src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" height="40">
 
 <p  align=center>
-<img  title="xpeqex's stats"  alt="xpeqex's stats"  src="https://github-readme-stats.vercel.app/api/?username=xpeqex&count_private=true&theme=merko&show_icons=true&rank_icon=github&hide_border=true" />
-<img  title="xpeqex's streak"  alt="xpeqex's streak"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpeqex&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=donut"/>
+<img  title="xpeqex's stats"  alt="xpeqex's stats"  src="https://github-readme-stats.vercel.app/api/?username=xpeqex&count_private=true&theme=merko&show_icons=true&rank_icon=github&hide_border=true&border_radius=20" />
+<img  title="xpeqex's streak"  alt="xpeqex's streak"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=xpeqex&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=donut&border_radius=20"/>
 </p>
 
 
