@@ -16,7 +16,7 @@
   
 * 🧑‍💻	I am passionate about technology but not an expert on it.
 
-* 🌱 Working for Open Source companies, programming on C.
+* 🌱 Working for Open Source companies, still learning about this whole world!
   
 * Really like to edit and create good-looking documentation.
 
